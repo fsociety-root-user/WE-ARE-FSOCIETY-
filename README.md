@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/logo.png" width="200" alt="fsociety logo">
+  <img src="https://raw.githubusercontent.com/fsociety-root-user/WE-ARE-FSOCIETY-/main/assets/logo.png" width="200" alt="fsociety logo">
 </p>
 
 ### WE ARE FSOCIETY ?
