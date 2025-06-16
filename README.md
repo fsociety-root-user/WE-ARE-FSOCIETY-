@@ -1,4 +1,4 @@
-![FSOCIETY Logo](https://raw.githubusercontent.com/fsociety-root-user/WE-ARE-FSOCIETY-/9a8e7c5d403466a254dca76dd2c4399b1566d127/logo.png)
+<img src="https://raw.githubusercontent.com/fsociety-root-user/WE-ARE-FSOCIETY-/9a8e7c5d403466a254dca76dd2c4399b1566d127/logo.png" width="150"/>
 
 ### WE ARE FSOCIETY ?
 
