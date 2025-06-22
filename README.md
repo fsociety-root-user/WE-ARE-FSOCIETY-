@@ -4,7 +4,7 @@
 
 ### CONNECT WITH ME:
 
-[![Instagram](https://img.shields.io/badge/Instagram-GoldenFlowers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenfllowers?igsh=bWt3MHV3ZTYwMXg1)
+[![Instagram](https://img.shields.io/badge/Instagram-Golden%20Flowers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenfllowers?igsh=bWt3MHV3ZTYwMXg1)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+SuUFDpKZjf82ZDI1)
 
 ### TOOLS:
