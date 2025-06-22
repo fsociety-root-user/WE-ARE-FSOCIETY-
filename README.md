@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fsociety-root-user/WE-ARE-FSOCIETY-/9a8e7c5d403466a254dca76dd2c4399b1566d127/logo.png" width="150"/>
+<img src="https://github.com/fsociety-root-user/WE-ARE-FSOCIETY-/blob/7a11b5e1b1016637749e795d8f024648400617b7/1000177942.png" width="150"/>
 
 ### WE ARE FSOCIETY ?
 
@@ -6,7 +6,7 @@
 
 ### CONNECT WITH ME:
 
-[![Instagram](https://img.shields.io/badge/Instagram-FSOCIETY--ROOT-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsocietyrootuser)
+[![Instagram](https://img.shields.io/badge/Instagram-FSOCIETY--ROOT-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hex.amit?igsh=bWt3MHV3ZTYwMXg1)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+SuUFDpKZjf82ZDI1)
 
 ### TOOLS:
