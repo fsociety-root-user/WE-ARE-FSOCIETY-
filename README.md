@@ -5,8 +5,8 @@
 ### CONNECT WITH ME:
 
 [![Instagram](https://img.shields.io/badge/Instagram-Golden%20Flowers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenfllowers?igsh=bWt3MHV3ZTYwMXg1)
-[![Telegram](https://img.shields.io/badge/Telegram-TELGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GoldenFllowers)
+[![Telegram](https://img.shields.io/badge/Telegram-GoldenFlowers-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GoldenFllowers)
 
 ### TOOLS:
 
-![Linux](https://img.shields.io/badge/Linux-FSOCIETY-000?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-GoldenFlowers-000?style=for-the-badge&logo=linux&logoColor=white)
