@@ -1,12 +1,10 @@
 <img src="https://github.com/GoldenFllowers/WE-ARE-FSOCIETY-/blob/a096afb26f64eb8543554799298e17c05bc7a186/IMG_20250623_012211_231.jpg" width="150"/>
 
-### WE ARE FSOCIETY ?
-
-**GREETINGS BROTHERS AND SISTERS. CHANGE IS COMING. THE TRUTH CANNOT BE STOPPED. TODAY WE WILL MAKE THE WORLD LISTEN. WATCH YOUR FEED.**
+**GoldenFlowers 🕊 just a tech ✅**
 
 ### CONNECT WITH ME:
 
-[![Instagram](https://img.shields.io/badge/Instagram-GoldenFlowers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenfllowers?igsh=bWt3MHV3ZTYwMXg1)
+[![Instagram](https://img.shields.io/badge/Instagram-Golden-Flowers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldenfllowers?igsh=bWt3MHV3ZTYwMXg1)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+SuUFDpKZjf82ZDI1)
 
 ### TOOLS:
